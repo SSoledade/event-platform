@@ -2,6 +2,7 @@
 # Event Plataform
 
 Project carried out at Rocketseat's Ignite Lab event, in addition to the instructor's proposal, responsiveness was inserted into the pages.
+Some videos from their channel were used as an example of classes from the event.
 
 
 
