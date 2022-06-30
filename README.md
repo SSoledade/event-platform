@@ -13,10 +13,10 @@ Some videos from their channel were used as an example of classes from the event
 
 ### Event page
 #### Desktop
-<img src="https://i.imgur.com/pPtZ8qQ.png"/>
+<img src="https://i.imgur.com/nR8TPdu.png"/>
 
 #### Mobile
-<img src="https://i.imgur.com/zVMqu0b.png" />
+<img src="https://i.imgur.com/mSKFFZw.png" />
 
 
 ## Used stack
